@@ -9,5 +9,8 @@
 # creamos vistas para manejar las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) para nuestros modelos, modificando el archivo .views de appcoder
 # python manage.py runserver para ejecutar el django y ver la pagina web
 # ctrl+c para apagar el servidor
-# git add . : para subir todo en estado 
+# git add . : para pasar de entorno de trabajo a staged
+# git commit -m "comentario": lo pasa de staged a listo
+# git push origin main: sube al github todo
+# deactivate: desactiva el entorno
 
