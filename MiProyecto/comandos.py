@@ -11,6 +11,7 @@
 # ctrl+c para apagar el servidor
 # git add . : para pasar de entorno de trabajo a staged
 # git commit -m "comentario": lo pasa de staged a listo
+# git status: me da el estado de los archivos, cual esta en staged , modificado u otros
 # git push origin main: sube al github todo
 # deactivate: desactiva el entorno
 
@@ -19,3 +20,7 @@
 # git switch nombre_de_la_rama: para movernos y trabajar desde otra rama
 # git branch: para ver todas las ramas y ver en que rama me encuentro
 # git merge nombre_de_la_rama: para fusionar las ramas 
+# git checkout -b nueva_funcionalidad: Crear una nueva rama para una nueva funcionalidad y te la asigna como area de trabajo actual
+# git checkout: cambia a otra rama
+
+
