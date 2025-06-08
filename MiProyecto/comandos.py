@@ -14,3 +14,8 @@
 # git push origin main: sube al github todo
 # deactivate: desactiva el entorno
 
+# Trabajo con ramas:
+# git branch nombre_de_la_rama: Las ramas permiten desarrollar funcionalidades nuevas de manera aislada del código principal
+# git switch nombre_de_la_rama: para movernos y trabajar desde otra rama
+# git branch: para ver todas las ramas y ver en que rama me encuentro
+# git merge nombre_de_la_rama: para fusionar las ramas 
