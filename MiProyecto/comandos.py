@@ -22,5 +22,7 @@
 # git merge nombre_de_la_rama: para fusionar las ramas 
 # git checkout -b nueva_funcionalidad: Crear una nueva rama para una nueva funcionalidad y te la asigna como area de trabajo actual
 # git checkout: cambia a otra rama
+# git branch -D nombre_de_la_rama: borra la rama
+
 
 
